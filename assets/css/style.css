@@ -47,8 +47,8 @@ body {
   max-width: 600px;
   text-align: center;
   width: 100%;
-  opacity: 0; /* Start with hidden container */
-  animation: fadeIn 1s forwards; /* Fade-in effect */
+  opacity: 0;
+  animation: fadeIn 1s forwards;
 }
 
 h1 {

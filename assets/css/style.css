@@ -25,7 +25,7 @@
 body {
   font-family: 'Retroville NC', sans-serif;
   color: var(--text-color);
-  background: url('../img/background.gif') no-repeat center center fixed;
+  background: url('../img/background-compressed.gif') no-repeat center center fixed;
   background-size: cover;
   background-color: var(--background-color);
   backdrop-filter: blur(12px);
